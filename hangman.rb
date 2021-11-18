@@ -60,7 +60,7 @@ class Hangman
     else
       "New game starting!"
       new_game
-      hamgman.play_game
+      hangman.play_game
     end
   end
   def new_game
